@@ -1,0 +1,103 @@
+.bold-h3 {
+  font-size: 5rem;
+  font-weight: 700;
+}
+.hero-section {
+  height: 650px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #1a2238;
+  color: #fff;
+}
+
+.hero-section span {
+  color: #f5105c;
+}
+.section-1 {
+  background: #fff;
+  padding-left: 1.7rem;
+  padding-right: 1.7rem;
+}
+.navy-1-h3 {
+  color: rgb(159, 159, 226);
+  font-size: 1rem;
+}
+.center-text {
+  text-align: center;
+}
+h1 {
+  color: #f5105c;
+}
+.section-2 {
+  background: #1a2238;
+  padding-top: 40px;
+  padding-bottom: 80px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.section-3 {
+  background: #fff;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.section-4 {
+  background-color: #dddada;
+  color: #1a2238;
+}
+.section-5 {
+  background-color: #1a2238;
+  color: #fff;
+}
+
+.bg-pink {
+  background-color: #f5105c !important;
+}
+.home-particles {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  opacity: 0.35;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+  background-color: #fff;
+  color: #1a2238;
+  height: 500px;
+  padding: 25px 25px 0px;
+  margin-bottom: 30px;
+}
+.rounded-lg p {
+  color: #354980;
+}
+
+.header-section {
+  background-color: #1a2238;
+}
+.header-section a {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+}
+@media only screen and (max-width: 479px) {
+  .bold-h3 {
+    color: #ffffff;
+    font-size: 2.3rem;
+    font-weight: 720;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
